@@ -9,7 +9,7 @@ This codebase was created to demonstrate a fully fledged fullstack application b
 - [ ] Docker
 - [ ] Kubernetes
 - [ ] Microservice
-  - [ ] Elysia.js
+  - [ ] ElysiaJS
   - [ ] Fiber
   - [ ] Actix
 - [ ] Microfrontend
