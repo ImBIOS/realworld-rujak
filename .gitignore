@@ -31,3 +31,7 @@ Thumbs.db
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# moon
+.moon/cache
+.moon/docker
